@@ -1,0 +1,16 @@
+baseURL = "https://thiennvc.mrtek.click/"
+languageCode = "en-us"
+title = "Nguyễn Viết Chí Thiện"
+theme = "toha"
+
+[params.profile]
+displayName = "Nguyễn Viết Chí Thiện"
+subtitle = "Senior Operation Specialist"
+summary = "15+ years in System/Operation, team leadership; knowledge in Redis, Kafka, VMware, etc."
+email = "thien.nguyenvietchi@gmail.com"
+location = "Ho Chi Minh City, Vietnam"
+picture = "images/profile.png"
+
+[params.links.linkedin]
+icon = "fab fa-linkedin"
+url = "https://www.linkedin.com/in/nguyen-viet-chi-thien-357751102/"
